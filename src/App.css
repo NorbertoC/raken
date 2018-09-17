@@ -1,0 +1,29 @@
+.test-style {
+  width: 1px;
+  overflow: hidden;
+  background-color: #e5e5e5;
+  height: 50px;
+}
+
+.dropdown-toggle {
+  width: 65px;
+}
+
+.image-container {
+  position: absolute;
+  left: 3px;
+  top: 0px;
+  margin-left: 10px;
+}
+
+.thumbnail-image {
+  margin-top: 5px;
+}
+
+.nav-container ul > li > a:hover {
+  color: orange !important;
+}
+
+.nav-dropdown-container ul > li > a:hover {
+  color: #333 !important;
+}
